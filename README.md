@@ -9,4 +9,7 @@ The file mp_face_landmarks.png is a high resolution image with numbers for each 
 
 ![Face in numbers](mp_face_landmarks.png)
 
+A version with some connections
+![Face in numbers](mp_face_landmarks_with_links.png)
+
 
