@@ -3,7 +3,10 @@ I was using the mediapipe library to extract facial landmarks from images. But w
 
 So I built a little software to extract those landmarks and then plot them in a white image where you can find the id of each landmark. that's useful if you want to use a subset of these landmarks.
 
-The file mp_face_landmarks.png is a high resolution image with numbers for each landmark. You can simply zoom in it and get all the landmarks you cant
+The file mp_face_landmarks.png is a high resolution image with numbers for each landmark. You can simply zoom in it and get all the landmarks you want.
+
+
+
 ![Face in numbers](mp_face_landmarks.png)
 
 
